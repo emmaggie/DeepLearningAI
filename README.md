@@ -1,2 +1,2 @@
-# DeepLearning.AI
-Implementations for the deeplearning.ai course
+# Deep Learning - algorithms in Python
+Implementations fo selected deep learning approaches.
